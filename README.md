@@ -54,7 +54,7 @@ Which technologies are they currently using, and how are they implementing them?
 | Utilities| WiX |
 | DevOps | RequireJS |
 | Business Tools | Google Fonts |
-* Coinberry also reports that in addition to the "military grade encryption technology they employ for 
+* In addition, Coinberry reports employing "banking grade" encryption technology for securing all transcations.
 
 ## Landscape:
 What domain of the financial industry is the company in?
@@ -68,13 +68,14 @@ What have been the major trends and innovations of this domain over the last 5-1
 
 What are the other major companies in this domain?
 * In the Canadian market the other major crypto exchanges are:
-1. Bitbuy
+1. ShakePay
 2. Netcoins
 3. Satstreet
 4. CoinSmart
 5. Coinsquare
 6. Coinbase
 7. Coinmama
+8. Bitbuy
 * Internationally, there are hundreds of centralized exchanges the major players are:
 1. Binance
 2. Coinbase
@@ -88,7 +89,7 @@ What has been the business impact of this company so far?
 * Coinberry has allowed a significant number of new Canadian crypto user and enthusiasts to launch into the crypto world.  Additionally, Coinberry has partnered with local muncipalities to allow users to their property taxes in Crypto.  Coinberry has established itself as a reputable and trusted brand in the Canadian Crypto market.
 
 What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-* Coinberry does not publicly report financial performance; however, on January 17, 2019 they reported to have received an unqualified audit opinion meaning the audit results from MNP LLP declaring that they are "free material mistatement."
+* Coinberry does not publicly report financial performance; however, on January 17, 2019 they reported to have received an unqualified audit opinion meaning the audit results from MNP LLP declaring that they are "free from material mistatement."
 It should be noted that Coinberry has seen an massive increase in it's Twitter mentions from December 2020 to January 2021.  The increase coincides with the overall interest in the blockchain and crypto markets over the past few months.  
 
 The chart below illustrates the massive spike:
@@ -96,7 +97,7 @@ The chart below illustrates the massive spike:
 ![Coinberry Twitter mentions from CBinsights](CBinsights-coinberry-twitter.jpeg)
 
 How is your company performing relative to competitors in the same domain?
-* It's di
+* The most direct competitor offering crypto trading in the Canadian market is Shakepay based in Montreal, QC.  Shakepay has been in business 2years longer then Coinberry so they have an established customer base and brand.  A major difference is that Coinberry is currenlty offering 6 cryptocurrencies while Stakepay is still limited to Ethereum (ETH) and Bitcoin (BTC).  The rate structures are similar and both offer easy funding options through established Canadian banks.
 
 ## Recommendations
 
@@ -108,7 +109,7 @@ Why do you think that offering this product or service would benefit the company
 * It's important for Coinberry to offer additonal crypto's to maintain a significant customer base.  Some customers will stay and HODL but many will withdraw crypto and move to largers exchanges.  Additionally, the relative importance of the coins currently offered by Coinberry is quickly eroding compared to the new more exotic and exciting coin & projects that are being developed in the DeFi space.  
 
 What technologies would this additional product or service utilize?
-* It's difficult to confirm if this woudl require any new technologies or just exted and build on the current capabilities and tech that Coinberry is already employing.
+* It's difficult to confirm if this would require any new technologies or just exted and build on the current capabilities and tech that Coinberry is already employing.
 
 Why are these technologies appropriate for your solution?
 * In order to compete with the larger exchanges (Binance, Kraken, Cryto.com, etc.) and maintain custodianship of the crypto assets.  As many users utilize Coinberry to launch into the Crypto space but quickly withdraw and move their assets to large exchanges that offer additional crypto currencies (coins), trading, options and futures.
@@ -132,3 +133,5 @@ Addendum (cited works)
 [CBinsights](https://app.cbinsights.com/profiles/c/Z2ddW/webTraffic)
 
 [Coinberry - security & trust](https://help.coinberry.com/s/article/Trust)
+
+[Shakepay](https://shakepay.com/)
